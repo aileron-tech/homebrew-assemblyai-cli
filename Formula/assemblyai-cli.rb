@@ -1,7 +1,7 @@
 class AssemblyaiCli < Formula
   desc "CLI to transcribe audio/video files via AssemblyAI"
-  homepage "https://github.com/diskd-ai/assemblyai-cli"
-  url "https://github.com/diskd-ai/assemblyai-cli/archive/refs/tags/v0.1.4.tar.gz"
+  homepage "https://github.com/aileron-tech/assemblyai-cli"
+  url "https://github.com/aileron-tech/assemblyai-cli/archive/refs/tags/v0.1.4.tar.gz"
   sha256 "50a3674c9e8ddb82bcfecb3da45082e1323e7df3d803cb659881732ea0fc5e7a"
 
   depends_on "ffmpeg"
